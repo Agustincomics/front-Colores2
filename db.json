@@ -1,0 +1,30 @@
+{
+  "colores": [
+    {
+      "pickColor": "Tarea1",
+      "nombreColor": "BLA BLA BLA1",
+      "id": 1
+    },
+    {
+      "pickColor": "#ec4b4b",
+      "nombreColor": "Rojito",
+      "id": 4
+    },
+    {
+      "pickColor": "#3de830",
+      "nombreColor": "Verdecillo",
+      "id": 5
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "nombreUsuario": "admin",
+      "email": "adim@gmail.com",
+      "contra": "Yjp6g3g3"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
